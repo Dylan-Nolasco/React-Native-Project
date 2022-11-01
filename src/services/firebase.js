@@ -52,8 +52,8 @@ export default class Firebase {
       sharesCount: 0,
       user: {
         id: 1,
-        name: 'Arturo Olvera',
-        username: '@arturoolvera',
+        name: 'Dylan Nolasco',
+        username: '@dylkibot',
         avatar: 'https://avatars.githubusercontent.com/u/26236080?v=4',
       },
       comments: [],

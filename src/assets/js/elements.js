@@ -3,10 +3,10 @@
     {
       id: 1,
       user: {
-        name: 'Arturo Olvera',
+        name: 'Dylan Nolasco',
         avatar: 'https://api.lorem.space/image/face?w=150&h=150',
         verified: true,
-        username: 'arturoolvera',
+        username: 'dylkibot',
       },
       post: {
         image: 'https://api.lorem.space/image/movie?w=150&h=150',
