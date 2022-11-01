@@ -1,4 +1,4 @@
-package com.mentoring;
+package com.bts.mentoring;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
