@@ -55,7 +55,7 @@ export default function Home() {
           <View style={{flexDirection: 'row', alignItems: 'center'}}>
           <TextInput 
             multiline={true}
-            onChangeText={setText} 
+            onChange={setText} 
             value={text} 
             style={{height: 50, width: '90%', borderRadius: 20, paddingTop: 5, paddingBottom: 5, paddingLeft: 10, paddingRight: 10, borderColor: '#DDD', borderWidth: 1}}
             placeholder="What's in your mind?"/>
